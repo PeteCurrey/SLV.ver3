@@ -32,7 +32,7 @@ export const DEFAULT_IMAGES: ImageConfig[] = [
     id: 'hero',
     label: 'Hero — Full Background',
     section: 'Hero',
-    url: 'https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+    url: 'https://static.wixstatic.com/media/8da072_579ec24c893642de9d7f146e32a17e9c~mv2.png?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
   },
   {
     id: 'about1',
